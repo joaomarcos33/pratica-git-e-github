@@ -17,3 +17,5 @@ OU
 ```bash 
 git add . 
 ```
+
+**atenção!** todo commit deve ter uma descrição(obrigatório)
